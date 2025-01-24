@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: an ArithmeticException caused by division by zero. The `bug.java` file contains the erroneous code. The `bugSolution.java` file shows how to prevent the error by adding a check for division by zero. This example highlights the importance of input validation and robust error handling in Java applications.
